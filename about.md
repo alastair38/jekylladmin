@@ -2,6 +2,7 @@
 layout: page
 title: About
 permalink: /about/
+new: new frontmatter added
 ---
 
 This is the base Jekyll theme and is very out of date. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
